@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="Helpers.fs" />
     <Compile Include="FsGame.fs" />
     <Compile Include="bbb.fs" />
   </ItemGroup>
